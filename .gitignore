@@ -1,0 +1,14 @@
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+*.egg-info
+*.pyc
+lib
+lib64
+mkdocs_version_warning/__pycache__/
+
+.idea/*
